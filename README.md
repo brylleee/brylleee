@@ -25,19 +25,9 @@ I am extremely passionate when it comes to hardware and software integration. Em
 - Cybersecurity
 - Web & Mobile App Development
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/linux/linux-original.svg" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/git/git-original.svg" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/go/go-original-wordmark.svg" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/python/python-original.svg" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" width="45" height="45"/>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bash,linux,git,go,py,cpp,c,arduino,raspberrypi,cmake,kali,verilog&perline=12" />
+</p>
 
 <br/>
 
