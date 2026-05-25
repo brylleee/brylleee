@@ -2,7 +2,7 @@
 
 CTF Player | Programmer | Hacker
 
-🌐 [My website](https://kairooo.online)
+🌐 [My website](https://akosibrylle.dev/)
 
 ---
 
